@@ -1,0 +1,8 @@
+﻿        @font-face {
+        font-family: 'Far.Dastan';
+        src:       url('https://www.fontfarsi.ir/Content/Fonts/EOT/Far_Dastan.eot');
+                    url('https://cdn.jsdelivr.net/gh/SAJJADmhFiles/FarDastan@main/Far_Dastan_2.woff') format('woff'),
+                    url('https://github.com/SAJJADmhFiles/FarDastan/blob/main/Far_Dastan.woff2') format('woff2')
+                    url('https://cdn.jsdelivr.net/gh/SAJJADmhFiles/FarDastan@main/Far_Dastan_2.ttf') format('truetype'),
+                    url('https://cdn.jsdelivr.net/gh/SAJJADmhFiles/FarDastan@main/Far_Dastan.svg') format('svg');
+        }
